@@ -4,7 +4,7 @@
 
 
 - 🏢 I'm tech lead and software engineer with focus in web development & people management.
-- 💻 Currently working at **Mundipagg/PagarMe [StoneCO]**
+- 💻 Currently working at **Conta Voltz**
 - 📚 My packages: [file-builder](https://www.nuget.org/packages/FileBuilder)
 
  Reach me out  👇
